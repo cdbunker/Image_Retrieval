@@ -8,8 +8,8 @@ Here is an example of image retrieval before running the images through the algo
 After encoding the images with the algorithm, the nearest neighbors are calculated again. Notice how much better the '2' class performs.
 ![alt text](https://github.com/cdbunker/Image_Retrieval/blob/master/retrieval_with_encoding.png)
 
-Here is the t-SNE embedding of the original feature space.
+Here is the t-SNE embedding of the original feature space (test set).
 ![alt text](https://github.com/cdbunker/Image_Retrieval/blob/master/tsne_no_encoding.png)
 
-Here is the t-SNE embedding of the encoding feature space. Notice that the classes have more space between them.
+Here is the t-SNE embedding of the encoding feature space (test set). Notice that the classes have more space between them.
 ![alt text](https://github.com/cdbunker/Image_Retrieval/blob/master/tsne_with_encoding.png)
